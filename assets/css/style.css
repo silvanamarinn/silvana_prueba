@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.columna-central{
+    height: 2em;
+    
+
+}
+
+#logo{
+    width: 1.8em;
+}
+
+.imagencard{
+    height: 10rem;
+}
+
+.form{
+    border-radius: 0.5em;
+}
+
+.fontw{
+    font-weight: 700;
+    font-size: 2em;
+}
+
